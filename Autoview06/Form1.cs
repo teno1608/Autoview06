@@ -65,6 +65,7 @@ namespace Autoview06
             }
             return null;
         }
+        //button get click to run
         private void button1_Click(object sender, EventArgs e)
         {
             Thread.Sleep(150000);
